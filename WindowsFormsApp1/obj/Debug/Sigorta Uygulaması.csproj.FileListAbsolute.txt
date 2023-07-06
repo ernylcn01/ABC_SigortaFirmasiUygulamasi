@@ -1,0 +1,73 @@
+C:\Users\Bpet_Mustafa\Desktop\sigorta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Sigorta Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Bpet_Mustafa\Desktop\sigorta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Sigorta Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bpet_Mustafa\Desktop\sigorta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Bpet_Mustafa\Desktop\sigorta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Bpet_Mustafa\Desktop\sigorta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Sigorta Uygulaması.csproj.GenerateResource.cache
+C:\Users\Bpet_Mustafa\Desktop\sigorta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Sigorta Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Bpet_Mustafa\Desktop\sigorta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Bpet_Mustafa\Desktop\sigorta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Bpet_Mustafa\Desktop\sigorta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Bpet_Mustafa\Desktop\sigorta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Bpet_Mustafa\Desktop\sigorta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Bpet_Mustafa\Desktop\sigorta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.YeniMusteriForm.resources
+C:\Users\Bpet_Mustafa\Desktop\sigorta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.policy.resources
+C:\Users\Bpet_Mustafa\Desktop\sigorta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.payment.resources
+C:\Users\Bpet_Mustafa\Desktop\sigorta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bpet_Mustafa\Desktop\sigorta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\Bpet_Mustafa\Desktop\sigorta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\Bpet_Mustafa\Desktop\sigorta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Sigorta Uygulaması.csproj.CopyComplete
+C:\Users\Bpet_Mustafa\Desktop\sigorta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ABC_SigortaUygulamasi.Properties.Resources.resources
+C:\Users\Bpet_Mustafa\Desktop\ABC_Sigorta\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Bpet_Mustafa\Desktop\ABC_Sigorta\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Bpet_Mustafa\Desktop\ABC_Sigorta\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Bpet_Mustafa\Desktop\ABC_Sigorta\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bpet_Mustafa\Desktop\ABC_Sigorta\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\Bpet_Mustafa\Desktop\ABC_Sigorta\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\Bpet_Mustafa\Desktop\ABC_Sigorta\WindowsFormsApp1\obj\Debug\Sigorta Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Bpet_Mustafa\Desktop\ABC_Sigorta\WindowsFormsApp1\obj\Debug\Sigorta Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bpet_Mustafa\Desktop\ABC_Sigorta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Bpet_Mustafa\Desktop\ABC_Sigorta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.YeniMusteriForm.resources
+C:\Users\Bpet_Mustafa\Desktop\ABC_Sigorta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.payment.resources
+C:\Users\Bpet_Mustafa\Desktop\ABC_Sigorta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.policy.resources
+C:\Users\Bpet_Mustafa\Desktop\ABC_Sigorta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Bpet_Mustafa\Desktop\ABC_Sigorta\WindowsFormsApp1\obj\Debug\Sigorta Uygulaması.csproj.GenerateResource.cache
+C:\Users\Bpet_Mustafa\Desktop\ABC_Sigorta\WindowsFormsApp1\obj\Debug\Sigorta Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Bpet_Mustafa\Desktop\ABC_Sigorta\WindowsFormsApp1\obj\Debug\Sigorta Uygulaması.csproj.CopyComplete
+C:\Users\Bpet_Mustafa\Desktop\ABC_Sigorta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Bpet_Mustafa\Desktop\ABC_Sigorta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Bpet_Mustafa\Desktop\sigorta\ABC_Sigorta\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Bpet_Mustafa\Desktop\sigorta\ABC_Sigorta\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Bpet_Mustafa\Desktop\sigorta\ABC_Sigorta\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Bpet_Mustafa\Desktop\sigorta\ABC_Sigorta\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bpet_Mustafa\Desktop\sigorta\ABC_Sigorta\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\Bpet_Mustafa\Desktop\sigorta\ABC_Sigorta\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\Bpet_Mustafa\Desktop\sigorta\ABC_Sigorta\WindowsFormsApp1\obj\Debug\Sigorta Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Bpet_Mustafa\Desktop\sigorta\ABC_Sigorta\WindowsFormsApp1\obj\Debug\Sigorta Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bpet_Mustafa\Desktop\sigorta\ABC_Sigorta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Bpet_Mustafa\Desktop\sigorta\ABC_Sigorta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.YeniMusteriForm.resources
+C:\Users\Bpet_Mustafa\Desktop\sigorta\ABC_Sigorta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.payment.resources
+C:\Users\Bpet_Mustafa\Desktop\sigorta\ABC_Sigorta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.policy.resources
+C:\Users\Bpet_Mustafa\Desktop\sigorta\ABC_Sigorta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Bpet_Mustafa\Desktop\sigorta\ABC_Sigorta\WindowsFormsApp1\obj\Debug\Sigorta Uygulaması.csproj.GenerateResource.cache
+C:\Users\Bpet_Mustafa\Desktop\sigorta\ABC_Sigorta\WindowsFormsApp1\obj\Debug\Sigorta Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Bpet_Mustafa\Desktop\sigorta\ABC_Sigorta\WindowsFormsApp1\obj\Debug\Sigorta Uygulaması.csproj.CopyComplete
+C:\Users\Bpet_Mustafa\Desktop\sigorta\ABC_Sigorta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Bpet_Mustafa\Desktop\sigorta\ABC_Sigorta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Bpet_Mustafa\Desktop\Sonsürüm\ABC_Sigorta\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Bpet_Mustafa\Desktop\Sonsürüm\ABC_Sigorta\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Bpet_Mustafa\Desktop\Sonsürüm\ABC_Sigorta\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Bpet_Mustafa\Desktop\Sonsürüm\ABC_Sigorta\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bpet_Mustafa\Desktop\Sonsürüm\ABC_Sigorta\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\Bpet_Mustafa\Desktop\Sonsürüm\ABC_Sigorta\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\Bpet_Mustafa\Desktop\Sonsürüm\ABC_Sigorta\WindowsFormsApp1\obj\Debug\Sigorta Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Bpet_Mustafa\Desktop\Sonsürüm\ABC_Sigorta\WindowsFormsApp1\obj\Debug\Sigorta Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bpet_Mustafa\Desktop\Sonsürüm\ABC_Sigorta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Bpet_Mustafa\Desktop\Sonsürüm\ABC_Sigorta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.YeniMusteriForm.resources
+C:\Users\Bpet_Mustafa\Desktop\Sonsürüm\ABC_Sigorta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.payment.resources
+C:\Users\Bpet_Mustafa\Desktop\Sonsürüm\ABC_Sigorta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.policy.resources
+C:\Users\Bpet_Mustafa\Desktop\Sonsürüm\ABC_Sigorta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Bpet_Mustafa\Desktop\Sonsürüm\ABC_Sigorta\WindowsFormsApp1\obj\Debug\Sigorta Uygulaması.csproj.GenerateResource.cache
+C:\Users\Bpet_Mustafa\Desktop\Sonsürüm\ABC_Sigorta\WindowsFormsApp1\obj\Debug\Sigorta Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Bpet_Mustafa\Desktop\Sonsürüm\ABC_Sigorta\WindowsFormsApp1\obj\Debug\Sigorta Uygulaması.csproj.CopyComplete
+C:\Users\Bpet_Mustafa\Desktop\Sonsürüm\ABC_Sigorta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Bpet_Mustafa\Desktop\Sonsürüm\ABC_Sigorta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
